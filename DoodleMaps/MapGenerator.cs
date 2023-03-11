@@ -5,10 +5,10 @@
 
     public class MapGenerator
     {
-        private const string Wall = "█";
+        public const string Wall = "█";
 
         private const string Space = " ";
-
+ 
         private readonly MapGeneratorOptions options;
 
         private readonly Random random;

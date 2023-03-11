@@ -20,7 +20,6 @@
     
     public enum MapType
     {
-        Maze,
-        Grid
+        Maze
     }
 }
